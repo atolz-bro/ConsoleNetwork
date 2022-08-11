@@ -18,3 +18,7 @@ A Message instance contains the message string that clients instances use to sen
 A ConnectedClient instance is used by the server to manage clients that are active on the server
 
 The postgres JDBC Driver jar(Library) is what allows the JDBC API in the JDK ```java.sql``` package, used by the server instance, to connect to the postgres database.
+The path to this library has to be set through the environment variable or done in an IDE like intelliJ Idea
+
+https://user-images.githubusercontent.com/62163687/184237759-aa4c4969-d0f0-43b0-b4cc-f5089ff710d5.mp4
+
